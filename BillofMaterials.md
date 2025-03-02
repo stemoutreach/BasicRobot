@@ -14,4 +14,5 @@
 - [Portable Charger](https://www.amazon.com/SIXTHGU-Portable-Capacity-External-Indicator/dp/B08QHG7BTB)
 - [Battery Holder with Switch](https://www.amazon.com/LAMPVPATH-Battery-Holder-Switch-Leads/dp/B07L9M6VZK)
 
-
+zzimages/BOM.jpg
+ <img src="[https://github.com/stemoutreach/BasicRobot/tree/main/zzimages/BOM.jpg" width="600" > 
