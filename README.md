@@ -1,4 +1,4 @@
-# BasicRobot
+# PicoBot
 
 
 ## [Bill of Materials](BillofMaterials.md)
