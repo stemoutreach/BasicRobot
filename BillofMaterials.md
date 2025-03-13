@@ -2,7 +2,6 @@
 
 ## What you will need
 
-Option 1
 
 - [Purple Aluminum Chassis](https://www.adafruit.com/product/3796)
 - [20mm Height Metal Caster Bearing Wheel ](https://www.adafruit.com/product/3948)
