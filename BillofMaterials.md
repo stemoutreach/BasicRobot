@@ -18,6 +18,6 @@
 - [Hook and Loop Roll, White, 2-in ](https://www.amazon.com/dp/B07664NQ26)
 
 
-<img src="https://github.com/stemoutreach/BasicRobot/blob/main/zzimages/BOM2.jpg" width="600" >
+
 
 
