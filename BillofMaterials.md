@@ -18,8 +18,6 @@ Option 1
 - [M3 x 25mm 304 Stainless Steel Screws Bolt](https://www.amazon.com/dp/B012TE0S6U)
 - [Hook and Loop Roll, White, 2-in ](https://www.amazon.com/dp/B07664NQ26)
 
-![image](https://github.com/user-attachments/assets/10e5dfde-9f97-4a6e-8d73-0c982e13a9aa)
-
 
 <img src="https://github.com/stemoutreach/BasicRobot/blob/main/zzimages/BOM2.jpg" width="600" >
 
